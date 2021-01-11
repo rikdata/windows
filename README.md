@@ -6,6 +6,6 @@ RikData OneApp is a mobile application for creating, viewing, and updating vario
 Windows version provides all the functionalities available in the mobile version (same as iOS and Andriod)
 
 
-##How to use
+## How to use
 Download the application. Unzip it and open rikdata_oneapp.exe. 
 Read the documentation @ http://docs.rikdata.com
